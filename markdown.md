@@ -1,3 +1,3 @@
 # Markdown
 
-[README.md ->](/markdown.md)
+[README.md ->](./README.md)
